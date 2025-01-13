@@ -69,7 +69,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'Blater Documentation',
+      title: 'Getting Started',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
