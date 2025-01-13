@@ -17,10 +17,10 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'blater', // Usually your GitHub org/user name.
-  projectName: 'blater', // Usually your repo name.
+  organizationName: 'BlaterTech', // Usually your GitHub org/user name.
+  projectName: 'Blater.Docs', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
