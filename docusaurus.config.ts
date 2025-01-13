@@ -42,6 +42,7 @@ const config: Config = {
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
+        blog: false,
         /*blog: {
           showReadingTime: true,
           feedOptions: {
@@ -84,7 +85,7 @@ const config: Config = {
           label: 'Documentation',
         },
         {
-          href: 'blater.tech',
+          href: 'https://blater.tech',
           label: "Dashboard",
           position: 'right'
         },
@@ -125,7 +126,7 @@ const config: Config = {
             },
           ],
         },
-        {
+/*        {
           title: 'More',
           items: [
             {
@@ -137,7 +138,7 @@ const config: Config = {
               href: 'https://github.com/facebook/docusaurus',
             },
           ],
-        },
+        },*/
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Blater`,
     },
